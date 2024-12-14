@@ -6,8 +6,8 @@ This is a simple HTML and CSS project that replicates the header, navigation, he
 
 [Amazon CSS CLONE](<https://amazon-css-clone.netlify.app/>)
 
+## Contributor:
 For any queries or feedback, please feel free to reach out:
-**Contributor:**
 
 - [Syed Aman Shah](<https://github.com/amanxsyed>)
 - **Email**: [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
