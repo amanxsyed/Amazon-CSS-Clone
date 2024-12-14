@@ -4,7 +4,7 @@ This is a simple HTML and CSS project that replicates the header, navigation, he
 
 ## Live Link
 
-[Amazon CSS CLONE](<https://-.netlify.app/>)
+[Amazon CSS CLONE](<https://amazon-css-clone.netlify.app/>)
 
 
 ## Project Overview
@@ -20,6 +20,13 @@ This project creates a simple webpage layout inspired by Amazon's homepage. It c
 The design focuses on the use of flexbox for layout management, hover effects, and responsive design principles.
 
 ---
+
+For any queries or feedback, please feel free to reach out:
+**Contributor:**
+
+- [Syed Aman Shah](<https://github.com/amanxsyed>)
+- **Email**: [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
+
 ## Technologies Used
 
 - **HTML5**: For structuring the web page.
@@ -70,14 +77,6 @@ Contributions are welcome! Please follow these steps:
     git push origin feature-branch
     ```
 6. Create a new Pull Request.
-
-**Contributor:**
-For any queries or feedback, please feel free to reach out:
-- [Syed Aman Shah](<https://github.com/amanxsyed>)
-- **Email**: [amanxsyed@gmail.com](mailto:amanxsyed@gmail.com)
-
-
-
 
 ## License
 
