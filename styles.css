@@ -112,20 +112,45 @@ font-weight: 700;
     color: white;
     align-items: center;
     justify-content: space-evenly;
- }
+}
  
- .panel-ops p{
+.panel-ops p{
      display: inline;
      margin-left: 15px;
- }
+}
  
  .panel-ops{
      width: 70%;
- }
+}
  
  .panel-deals{
     font-size: 0.9rem;
     font-weight: 700;
- }
- 
+}
+
+/** hero section **/
+.hero-section{
+    height: 380px;
+    display: flex;
+    background-size: cover;
+    background-image: url("./res/hero_image.jpg");
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.hero-msg{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    width: 80%;
+    margin-bottom: 25px;
+}
+
+.hero-msg a{
+    color: #007185;
+}
 
