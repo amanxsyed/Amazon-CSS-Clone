@@ -85,3 +85,22 @@
     border: 2px solid orange;
 }
 
+/* box4 */
+span{
+    font-size: 0.7rem;
+}
+.nav-second{
+    font-size:0.85rem;
+    font-weight: 700 ;
+} 
+
+/** box5 **/
+.nav-cart i{
+font-size: 30px;
+}
+
+.nav-cart{
+font-size: 0.85rem;
+font-weight: 700;
+}
+
