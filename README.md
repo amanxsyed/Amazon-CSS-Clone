@@ -2,7 +2,7 @@
 
 This is a simple HTML and CSS project that replicates the header, navigation, hero section, product categories, and footer layout of the Amazon website. It is designed for educational purposes to demonstrate layout and design techniques using HTML and CSS.
 
-## Live Link
+## Live Demo Link
 
 [Amazon CSS CLONE](<https://amazon-css-clone.netlify.app/>)
 
